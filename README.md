@@ -7,4 +7,4 @@ Introductory C++ practice programs organized by topic.
 - `cpp_basics/class_and_object.cpp`
 - `cpp_basics/factorial.cpp`
 
-Prepared on 2026-10-21.
+Prepared on 2026-10-11.
